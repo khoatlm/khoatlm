@@ -8,25 +8,25 @@
 
 ---
 
-### 🛠️ Kỹ năng & Công cụ (Tech Stack)
+## 🛠️ Kỹ năng & Công cụ (Tech Stack)
 Các ngôn ngữ lập trình và công cụ mình đã và đang làm việc:
 
-#### 💻 Ngôn ngữ lập trình
+### 💻 Ngôn ngữ lập trình
 ![](https://shields.io)
 ![](https://shields.io)
 ![](https://shields.io)
 ![](https://shields.io)
 
-#### 🔧 Công cụ & Nền tảng
+### 🔧 Công cụ & Nền tảng
 ![](https://shields.io)
 ![](https://shields.io)
 ![](https://shields.io)
-
----
+![](https://shields.io)
 
 ### 📊 Thống kê hoạt động GitHub
+
 <p align="left">
-  <img src="https://vercel.app" height="150" />
-  <img src="https://vercel.app" height="150" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
 
